@@ -1,0 +1,10 @@
+assignemnt for MAS.500 using OpenFrameworks for iOS 
+
+This is a tiny iOS example for OpenFrameworks. I made two fixes to get this to build in Xcode 6 on Mavericks.
+
+Installation
+
+Get Xcode from the App Store - it should be version 6.1
+Download and unzip OpenFrameworks v0.9.8 for iOS ( direct link )
+Git clone this code and put it in the of_v0.9.8_ios_release/examples/ios/ directory
+Building
